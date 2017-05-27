@@ -1,0 +1,1 @@
+# new_yorkcoin_core
